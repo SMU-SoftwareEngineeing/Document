@@ -1,6 +1,6 @@
 # README
   
-진도표 : <https://docs.google.com/spreadsheets/d/1R-e-igw1ZMEpyVDCgx1ZVglGaA1_OE6BiBjERjbbV5Y/edit?usp=sharing?>
+진도표 : <https://docs.google.com/spreadsheets/d/1R-e-igw1ZMEpyVDCgx1ZVglGaA1_OE6BiBjERjbbV5Y/edit?usp=sharing?>  
 영상 본 후에 날짜 적어주세요
 
 생활코딩(Git1) : <https://opentutorials.org/course/3837>
